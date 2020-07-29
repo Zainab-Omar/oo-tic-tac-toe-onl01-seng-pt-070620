@@ -73,8 +73,8 @@ class TicTacToe
     puts winner ? "Congratulations #{winner}!" : "Cat's Game!"
   end
 end
-game=TicTacToe
-game.play
+#game=TicTacToe
+#.play
 
 
  
